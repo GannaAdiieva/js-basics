@@ -13,8 +13,7 @@ This repository contains my practice while learning JavaScript for QA Automation
 ## How to run
 Node.js 
 dowload project
-terminal -> 
-cd path/to/your/project
+terminal -> cd path/to/your/project
 node greeting_bot.js
 node sentence_maker.js
 node trivia_bot.js
