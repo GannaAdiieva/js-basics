@@ -1,0 +1,13 @@
+console.log("Hello! I'm your coding fun fact guide!");
+let botName="Patricia";
+let botLocation="Latvia";
+let favoriteLanguage="JavaScript";
+console.log("My name is "+botName+" and I live on "+botLocation+".");
+console.log("My favorite programming language is "+favoriteLanguage+".");
+let codingFact=favoriteLanguage+" enables behavior, creating a complete and interactive web experience.";
+console.log(codingFact);
+codingFact="To create a string in "+favoriteLanguage+", you can use single quotes, or double quotes.";
+console.log(codingFact);
+codingFact="Variables in "+favoriteLanguage+" must begin with a letter, an underscore, or a dollar sign.";
+console.log(codingFact);
+console.log("It was fun sharing these facts with you. Goodbye! - "+botName+" from "+botLocation+".");
