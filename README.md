@@ -11,7 +11,10 @@ This repository contains my practice while learning JavaScript for QA Automation
 - the camelCase naming convention
 
 ## How to run
+Node.js 
+dowload project
+terminal -> 
+cd path/to/your/project
 node greeting_bot.js
-
-## Next steps
-- ...
+node sentence_maker.js
+node trivia_bot.js
