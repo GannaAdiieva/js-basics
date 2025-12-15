@@ -9,6 +9,9 @@ This repository contains my practice while learning JavaScript for QA Automation
 - role of semicolons in JavaScript
 - comments
 - the camelCase naming convention
+- template literal syntax
+- indexOf() method
+  
 
 ## How to run
 - Node.js 
@@ -17,3 +20,4 @@ This repository contains my practice while learning JavaScript for QA Automation
 - node greeting_bot.js
 - node sentence_maker.js
 - node trivia_bot.js
+- teacherBot.js
