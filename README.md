@@ -11,6 +11,8 @@ This repository contains my practice while learning JavaScript for QA Automation
 - the camelCase naming convention
 - template literal syntax
 - indexOf() method
+- includes() method
+- slice() method
   
 
 ## How to run
@@ -20,4 +22,5 @@ This repository contains my practice while learning JavaScript for QA Automation
 - node greeting_bot.js
 - node sentence_maker.js
 - node trivia_bot.js
-- teacherBot.js
+- node teacherBot.js
+- node buildStringInspector.js
