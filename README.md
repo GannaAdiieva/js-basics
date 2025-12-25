@@ -13,6 +13,8 @@ This repository contains my practice while learning JavaScript for QA Automation
 - indexOf() method
 - includes() method
 - slice() method
+- toUpperCase() and toLowerCase()
+- trim()
   
 
 ## How to run
@@ -24,3 +26,4 @@ This repository contains my practice while learning JavaScript for QA Automation
 - node trivia_bot.js
 - node teacherBot.js
 - node buildStringInspector.js
+- node stringFormatter.js
