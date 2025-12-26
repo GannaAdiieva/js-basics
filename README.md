@@ -15,6 +15,8 @@ This repository contains my practice while learning JavaScript for QA Automation
 - slice() method
 - toUpperCase() and toLowerCase()
 - trim()
+- replace() 
+- repeat()
   
 
 ## How to run
@@ -27,3 +29,4 @@ This repository contains my practice while learning JavaScript for QA Automation
 - node teacherBot.js
 - node buildStringInspector.js
 - node stringFormatter.js
+- node stringTransformer.js
