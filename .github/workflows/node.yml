@@ -20,6 +20,7 @@ jobs:
           node-version: 18
 
       - name: Run JS files (basic check)
+        shell: bash
         run: |
           echo "Running JavaScript files..."
           shopt -s globstar nullglob
