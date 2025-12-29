@@ -22,7 +22,7 @@ jobs:
       - name: Run JS files (basic check)
         run: |
           echo "Running JavaScript files..."
-          shopt -s globstar
+          shopt -s globstar nullglob
           for f in **/*.js; do
             node "$f"
           done
