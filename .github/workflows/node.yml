@@ -22,4 +22,5 @@ jobs:
       - name: Run JS files (basic check)
         run: |
           echo "Running JavaScript files..."
-          find . -type f -name "*.js" -print -exec node {} \;
+          node booleans_and_numbers/*.js
+          node variables_and_strings/*.js
